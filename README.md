@@ -49,8 +49,7 @@ Selon le contexte, la discipline et le type d'évaluation, différents niveaux d
 - **Exploration de l'IA** - Vous devez utiliser l'IA de manière créative pour résoudre la tâche.
 
 ### ressources modifiables
-- Vous trouvez une série d'illusrations réutilisables sur ce pdf.
-- Vous pouvez créer une copie modifiable du [modèle à partir de Canva](https://www.canva.com/design/DAGPLiMwgmk/s30HRQJ1AKBrcKaCZ_kO8g/view?utm_content=DAGPLiMwgmk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview) (compte nécessaire).
+Vous pouvez créer une copie modifiable du [modèle à partir de Canva](https://www.canva.com/design/DAGPLiMwgmk/s30HRQJ1AKBrcKaCZ_kO8g/view?utm_content=DAGPLiMwgmk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview) (compte nécessaire).
 
 ---------
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
