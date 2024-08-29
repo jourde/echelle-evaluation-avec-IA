@@ -28,12 +28,12 @@ La [version publiée en août 2024](https://leonfurze.com/2024/08/28/updating-th
 **6. EXPLORATION AVEC L’IA** - L’IA est utilisée de manière créative pour améliorer la résolution de problèmes, générer de nouvelles idées ou développer des solutions innovantes pour résoudre des problèmes. Les apprenants et les éducateurs co-conçoivent des évaluations pour explorer les applications originales de l'IA dans le domaine d'étude. *Vous devez utiliser l'IA de manière créative pour résoudre la tâche, en co-concevant éventuellement de nouvelles approches avec votre instructeur.*
 
 ## Versions graphiques
-### table
+### Table
 <div align="center">
 	<img width="90%" height="90%" src="https://github.com/jourde/echelle-evaluation-avec-IA/blob/main/EEIA_table.png">
 </div>
 
-### anneaux
+### Anneaux
 Selon le contexte, la discipline et le type d'évaluation, différents niveaux d'utilisation de l'IA peuvent être appropriés à différents moments. La représentation circulaire (non plus tablulaire) suggère que tous les niveaux méritent d'être considérés pour leur pertinence dans la conception de l'évaluation.
 
 <div align="center">
@@ -46,7 +46,7 @@ Selon le contexte, la discipline et le type d'évaluation, différents niveaux d
 - **Intégration de l'IA** - Vous pouvez utiliser l'IA tout au long de votre évaluation.  
 - **Exploration de l'IA** - Vous devez utiliser l'IA de manière créative pour résoudre la tâche.
 
-### ressources modifiables
+### Ressources modifiables
 Vous pouvez créer une copie modifiable du [modèle à partir de Canva](https://www.canva.com/design/DAGPLiMwgmk/s30HRQJ1AKBrcKaCZ_kO8g/view?utm_content=DAGPLiMwgmk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview) (compte nécessaire).
 
 ---------
