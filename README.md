@@ -1,4 +1,4 @@
-# AIAS-FR
+# Echelle de l’intelligence artificielle dans les évaluations
 Adaptation en français de l'AI Assessment Scale.
 
 # Présentation générale
@@ -10,7 +10,7 @@ Ce cadre aide les enseignants à définir l'utilisation acceptable (ou requise) 
 
 La [version publiée en août 2024](https://leonfurze.com/2024/08/28/updating-the-ai-assessment-scale/) met l'accent sur l’intégration profonde de l'IA générative, introduisant un niveau d'exploration et d'expérimentation avec l’IA. A ce niveau, les apprenants et les enseignants utilisent l'intelligence artificielle générative pour identifier de nouvelles façons d'atteindre les objectifs d'apprentissage. On reconnaît ici que les apprenants peuvent avoir des compétences en IA générative dépassant celles de leurs instructeurs, et que ces compétences peuvent être mises à profit.
 
-# Echelle de l’évaluation avec l'IA (EEIA)
+# Echelle de l’intelligence artificielle dans les évaluations (EIAE)
 
 ## Version textuelle
 
