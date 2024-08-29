@@ -4,7 +4,9 @@ Adaptation en français de l'[AI Assessment Scale](https://leonfurze.com/2024/08
 # Présentation générale
 Je propose ici une traduction française de l’échelle d’intégration de l’IA générative dans les évaluations d’apprentissage (*AI Assessment Scale* ou AIAS) développée depuis 2024 par Leon Furze, Mike Perkins, Jasper Roe et Jason MacVaugh. Il s'agit d'une ressource éducative libre (REL) partageable et modifiable sous licence Creative Commons CC-BY-NC-SA.
 
-<img width="70%" height="70%" src="https://i0.wp.com/leonfurze.com/wp-content/uploads/2024/08/AIAS-2024-Final-6.png">
+<div align="center">
+	<img width="70%" height="70%" src="https://i0.wp.com/leonfurze.com/wp-content/uploads/2024/08/AIAS-2024-Final-6.png">
+</div>
 
 Ce cadre aide les enseignants à définir l'utilisation acceptable (ou requise) de l’IA générative multimodale par les apprenants dans les travaux d’évaluation. Il dépasse l’opposition binaire “utiliser ou ne pas utiliser” l'IA générative et promeut la transparence dans l'utilisation de l'IA générative en contexte d’apprentissage formel. Ce cadre vise à :
 1) aider les éducateurs à aligner leurs évaluations dans un contexte où l’IA générative est commune;
