@@ -31,17 +31,18 @@ La [version publiée en août 2024](https://leonfurze.com/2024/08/28/updating-th
 
 ## Versions graphiques
 ### table
-
+<div align="center">
+	<img width="90%" height="90%" src="https://github.com/jourde/echelle-evaluation-avec-IA/blob/main/EEIA_table.png">
+</div>
 
 ### anneaux
 <div align="center">
 	<img width="100%" height="100%" src="https://github.com/jourde/echelle-evaluation-avec-IA/blob/main/aiasringsv2_FR.png">
 </div>
 
-
+### ressources modifiables
 - Vous trouvez une série d'illusrations réutilisables sur ce pdf.
 - Vous pouvez créer une copie modifiable du [modèle à partir de Canva](https://www.canva.com/design/DAGPLiMwgmk/s30HRQJ1AKBrcKaCZ_kO8g/view?utm_content=DAGPLiMwgmk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview) (compte nécessaire).
-
 
 ---------
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
