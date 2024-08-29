@@ -36,9 +36,17 @@ La [version publiée en août 2024](https://leonfurze.com/2024/08/28/updating-th
 </div>
 
 ### anneaux
+Selon le contexte, la discipline et le type d'évaluation, différents niveaux d'utilisation de l'IA peuvent être appropriés à différents moments. La représentation circulaire (non plus tablulaire) suggère que tous les niveaux méritent d'être considérés pour leur pertinence dans la conception de l'évaluation.
+
 <div align="center">
 	<img width="100%" height="100%" src="https://github.com/jourde/echelle-evaluation-avec-IA/blob/main/aiasringsv2_FR.png">
 </div>
+
+- **Pas d'IA** - Vous ne devez utiliser l'IA à aucun moment de l'évaluation.
+- **Planification de l'IA** - Vous pouvez utiliser l'IA pour la planification, le développement d'idées et la recherche.  
+- **Collaboration avec l'IA** - Vous pouvez utiliser l'IA pour rédiger, affiner et évaluer votre travail. 
+- **Intégration de l'IA** - Vous pouvez utiliser l'IA tout au long de votre évaluation.  
+- **Exploration de l'IA** - Vous devez utiliser l'IA de manière créative pour résoudre la tâche.
 
 ### ressources modifiables
 - Vous trouvez une série d'illusrations réutilisables sur ce pdf.
