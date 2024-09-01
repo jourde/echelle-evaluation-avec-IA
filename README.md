@@ -12,6 +12,8 @@ Ce cadre aide les enseignants à définir l'utilisation acceptable (ou requise) 
 3) aider les apprenants à se conformer aux principes de l'intégrité académique.
 
 La [version publiée en août 2024](https://leonfurze.com/2024/08/28/updating-the-ai-assessment-scale/) met l'accent sur l’intégration profonde de l'IA générative, introduisant un niveau d'exploration et d'expérimentation avec l’IA. A ce niveau, les apprenants et les enseignants utilisent l'intelligence artificielle générative pour identifier de nouvelles façons d'atteindre les objectifs d'apprentissage. On reconnaît ici que les apprenants peuvent avoir des compétences en IA générative dépassant celles de leurs instructeurs, et que ces compétences peuvent être mises à profit.
+- À partir du niveau 2, l'enseignant attend des élèves qu'ils fassent preuve d'esprit critique vis-à-vis de la technologie qu'ils utilisent.  
+- Au niveau 5, les élèves peuvent suggèrer des façons d'utiliser l'IA auxquelles même l'enseignant n'a pas encore considéré.
 
 # Echelle de l’intelligence artificielle dans l'évaluation (EIAE)
 ## Version textuelle courte
