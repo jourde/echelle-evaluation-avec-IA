@@ -46,6 +46,13 @@ Selon le contexte, la discipline et le type d'évaluation, différents niveaux d
 	<img width="100%" height="100%" src="https://github.com/jourde/echelle-evaluation-avec-IA/blob/main/aiasringsv2_FR.png">
 </div>
 
+### Codes couleurs
+- niveau 1: #64DEFF
+- niveau 2: #C1FFD2
+- niveau 3: #C1CFFF
+- niveau 4: #FFF1C1
+- niveau 5: #FFC1EE 
+
 ### Ressources modifiables
 Vous pouvez créer une copie modifiable du [modèle à partir de Canva](https://www.canva.com/design/DAGPLiMwgmk/s30HRQJ1AKBrcKaCZ_kO8g/view?utm_content=DAGPLiMwgmk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview) (compte nécessaire).
 
