@@ -14,8 +14,14 @@ Ce cadre aide les enseignants à définir l'utilisation acceptable (ou requise) 
 La [version publiée en août 2024](https://leonfurze.com/2024/08/28/updating-the-ai-assessment-scale/) met l'accent sur l’intégration profonde de l'IA générative, introduisant un niveau d'exploration et d'expérimentation avec l’IA. A ce niveau, les apprenants et les enseignants utilisent l'intelligence artificielle générative pour identifier de nouvelles façons d'atteindre les objectifs d'apprentissage. On reconnaît ici que les apprenants peuvent avoir des compétences en IA générative dépassant celles de leurs instructeurs, et que ces compétences peuvent être mises à profit.
 
 # Echelle de l’intelligence artificielle dans l'évaluation (EIAE)
+## Version textuelle courte
+- **Sans IA** : vous ne devez utiliser l'IA à aucun moment de l'évaluation.
+- **Planification** : Vous pouvez utiliser l'IA pour la planification, le développement d'idées et la recherche.
+- **Collaboration** : Vous pouvez utiliser l'IA pour rédiger, affiner et évaluer votre travail.
+- **Intégration** : Vous pouvez utiliser l'IA pendant toute la durée de l'évaluation.
+- **Exploration** : Vous devez utiliser l'IA de manière créative pour résoudre la tâche.
 
-## Version textuelle
+## Version textuelle longue
 
 **1. SANS IA** - L’évaluation est entièrement réalisée sans l'aide de l'IA dans un environnement contrôlé, garantissant que les apprenants s'appuient uniquement sur leurs connaissances, leur compréhension et leurs compétences existantes. *Vous ne devez pas utiliser l'IA à aucun moment de votre évaluation. Vous devez démontrer vos compétences et connaissances fondamentales.*
 
@@ -39,12 +45,6 @@ Selon le contexte, la discipline et le type d'évaluation, différents niveaux d
 <div align="center">
 	<img width="100%" height="100%" src="https://github.com/jourde/echelle-evaluation-avec-IA/blob/main/aiasringsv2_FR.png">
 </div>
-
-- **Pas d'IA** - Vous ne devez utiliser l'IA à aucun moment de l'évaluation.
-- **Planification de l'IA** - Vous pouvez utiliser l'IA pour la planification, le développement d'idées et la recherche.  
-- **Collaboration avec l'IA** - Vous pouvez utiliser l'IA pour rédiger, affiner et évaluer votre travail. 
-- **Intégration de l'IA** - Vous pouvez utiliser l'IA tout au long de votre évaluation.  
-- **Exploration de l'IA** - Vous devez utiliser l'IA de manière créative pour résoudre la tâche.
 
 ### Ressources modifiables
 Vous pouvez créer une copie modifiable du [modèle à partir de Canva](https://www.canva.com/design/DAGPLiMwgmk/s30HRQJ1AKBrcKaCZ_kO8g/view?utm_content=DAGPLiMwgmk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview) (compte nécessaire).
