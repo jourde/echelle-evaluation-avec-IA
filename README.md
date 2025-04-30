@@ -2,7 +2,7 @@
 # Présentation générale
 L'Echelle d’intégration de l’IA générative dans les évaluations d’apprentissage est une traduction française de l'*AI Assessment Scale* ou AIAS [(Perkins, Roe & Furze, 2024)](https://arxiv.org/abs/2412.09029) [^1].
 
-L'AIAS est une ressource éducative libre (REL), partageable et modifiable sous licence Creative Commons CC-BY-NC-SA, dont diverses [traductions](https://leonfurze.com/2024/12/09/ai-assessment-scale-aias-translations-from-around-the-world/) sont disponibles.
+L'AIAS est une ressource éducative libre (REL), partageable et modifiable sous licence Creative Commons CC-BY-NC-SA, dont diverses [traductions](https://leonfurze.com/2024/12/09/ai-assessment-scale-aias-translations-from-around-the-world/) sont disponibles. Cette échelle est présentée en détail sur le site web dédié : [aiassessmentscale.com](https://aiassessmentscale.com/).
 
 [^1]: La version de 2024 présente d'importantes modifications par rapport à la version initiale de ([2023](https://open-publishing.org/journals/index.php/jutlp/article/view/810)).
 
