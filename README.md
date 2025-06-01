@@ -1,29 +1,31 @@
 # Echelle de l’utilisation de l'intelligence artificielle générative dans l'évaluation des apprentissages
 # Présentation générale
-L'Echelle d’intégration de l’IA générative dans les évaluations d’apprentissage est une traduction française de l'*AI Assessment Scale* ou AIAS [(Perkins, Roe & Furze, 2024)](https://arxiv.org/abs/2412.09029) [^1].
+## Source
+L'Echelle d’intégration de l’IA générative dans les évaluations d’apprentissage est la traduction française de l'*AI Assessment Scale* ou AIAS [(Perkins, Roe & Furze, 2024)](https://arxiv.org/abs/2412.09029) [^1].
 
 L'AIAS est une ressource éducative libre (REL), partageable et modifiable sous licence Creative Commons CC-BY-NC-SA, dont diverses [traductions](https://leonfurze.com/2024/12/09/ai-assessment-scale-aias-translations-from-around-the-world/) sont disponibles. Cette échelle est présentée en détail sur le site web dédié : [aiassessmentscale.com](https://aiassessmentscale.com/).
 
 [^1]: La version de 2024 présente d'importantes modifications par rapport à la version initiale de ([2023](https://open-publishing.org/journals/index.php/jutlp/article/view/810)).
 
-Ce cadre souple peut s'appliquer à tout contexte éducatif, sans imposer de règles strictes. Il permets de favoriser un dialogue constructif entre enseignants et apprenants sur l'usage approprié de l'IA générative, et accompagne les enseignants dans l'adaptation de leurs évaluations dans un contexte d'IA générative omniprésente. Il permet aux enseignants de concevoir des évaluations pertinentes, de communiquer clairement aux apprenants les règles d'utilisation de l'IA générative dans leurs travaux, et finalement de maintenanir l'intégrité académique tout en exploitant le potentiel de outils d'IA générative multimodale.
+## Fonctions et principes de l'échelle
 
-C'est un **cadre pour l'alignement pédagogique de l'IA générative** avec les objectifs d'apprentissage et les évaluations envisagées.  
+Cette échelle permet de cadrer l'utilisation de l'IA générative dans les évaluations des apprentissages. Elle aide à concevoir des évaluations intégrant l'usage de l'IA générative (utilisation attendue ou même exigée), et à communiquer clairement ces règles aux apprenants. Elle aide ainsi à garantir la qualité de l'évaluation des apprentissages dans un contexte où l'IA générative est d'accès universel.
 
-# Echelle de l’intelligence artificielle dans l'évaluation (EIAE)
+## Niveaux de l'échelle
 
-Le premier niveau du cadre correspond aux évaluations sans utilisation permise de l'IA générative. Cela suppose un environnement contrôlé pour garantir que l'évaluation porte directement sur les capacités et les compétences de base des apprenants (sans aide).
+- Le premier niveau de l'échelle ne permet pas l'utilisation de l'IA générative dans les travaux d'évaluation. Cela requiert la mise en place d'un environnement contrôlé (supervisé) permettant de garantir que la performance des apprenants repose uniquement sur leurs compétences.
+- Les trois autres niveaux permettent — ou même exigent — l'utilisation de l'IA générative selon divers périmètres, de manière active et compétente (littératie numérique).
+- Le cinquième niveau permet aux apprenants de déployer des compétences avancées dans l'utilisation de l'IA générative pour explorer des moyens innovants d'atteindre les résultats attendus. Les apprenants peuvent alors co-concevoir les travaux d'évaluation avec les enseignants.
 
-Dans les autres niveaux, les apprennent peuvent ou doivent utiliser l'IA générative selon divers périmètres, tout en maintenant un engagement actif et une pensée critique. Chacun de ces niveaux exige donc une utilisation compétente de l'IAGen, dans des limites claires. L'échelle culmine à un cinquième niveau où apprenants et enseignants sont capables de co-concevoir avec l'IAGen.
-
-## Version textuelle courte
-- **Sans IA** : vous ne devez utiliser l'IA à aucun moment de l'évaluation.
-- **Planification** : Vous pouvez utiliser l'IA pour la planification, le développement d'idées et la recherche.
+# Versions textuelles
+## Description courte
+- **Sans IA** : vous ne pouvez pas utiliser l'IA.
+- **Planification** : Vous pouvez utiliser l'IA pour préparer et explorer les éléments de votre travail.
 - **Collaboration** : Vous pouvez utiliser l'IA pour rédiger, affiner et évaluer votre travail.
-- **Intégration** : Vous pouvez utiliser l'IA pendant toute la durée de l'évaluation.
-- **Exploration** : Vous devez utiliser l'IA de manière créative pour résoudre la tâche.
+- **Intégration** : Vous pouvez utiliser l'IA pendant toute la durée de votre travail.
+- **Exploration** : Vous pouvez utiliser l'IA de manière de manière créative pour atteindre les objectifs de votre travail.
 
-## Version textuelle longue
+## Description longue
 
 **1. SANS IA** - L’évaluation est entièrement réalisée sans l'aide de l'IA dans un environnement contrôlé, garantissant que les apprenants s'appuient uniquement sur leurs connaissances, leur compréhension et leurs compétences existantes. *Vous ne devez pas utiliser l'IA à aucun moment de votre évaluation. Vous devez démontrer vos compétences et connaissances fondamentales.*
 
