@@ -13,17 +13,20 @@ Cette échelle permet de cadrer l'utilisation de l'IA générative dans les éva
 
 ## Niveaux de l'échelle
 
-- Le premier niveau de l'échelle ne permet pas l'utilisation de l'IA générative dans les travaux d'évaluation. Cela requiert la mise en place d'un environnement contrôlé (supervisé) permettant de garantir que la performance des apprenants repose uniquement sur leurs compétences.
+- Le premier niveau de l'échelle ne permet pas l'utilisation de l'IA générative dans les travaux d'évaluation. Il requiert la mise en place d'un environnement contrôlé (supervisé) garantissant que les performances observées reposent uniquement sur les compétences des apprenants (examens oraux et questions-réponses, exercices d’écriture en classe, démonstrations de compétences…). Cela garantit que la qualification des apprenants, qui démontrent une maîtrise indépendante des compétences disciplinaires essentielles.
 - Les trois autres niveaux permettent — ou même exigent — l'utilisation de l'IA générative selon divers périmètres, de manière active et compétente (littératie numérique).
 - Le cinquième niveau permet aux apprenants de déployer des compétences avancées dans l'utilisation de l'IA générative pour explorer des moyens innovants d'atteindre les résultats attendus. Les apprenants peuvent alors co-concevoir les travaux d'évaluation avec les enseignants.
 
 # Versions textuelles
 ## Description courte
-- **Sans IA** : vous ne pouvez pas utiliser l'IA.
-- **Planification** : Vous pouvez utiliser l'IA pour préparer et explorer les éléments de votre travail.
-- **Collaboration** : Vous pouvez utiliser l'IA pour rédiger, affiner et évaluer votre travail.
-- **Intégration** : Vous pouvez utiliser l'IA pendant toute la durée de votre travail.
-- **Exploration** : Vous pouvez utiliser l'IA de manière de manière créative pour atteindre les objectifs de votre travail.
+
+| Niveau | Description                                                                                  |
+| -------------------- | -------------------------------------------------------------------------------------------- |
+| **Sans IA**          | Vous ne pouvez pas utiliser l'IA.                                                            |
+| **Planification**    | Vous pouvez utiliser l'IA pour préparer et explorer les éléments de votre travail.           |
+| **Collaboration**    | Vous pouvez utiliser l'IA pour rédiger, affiner et évaluer votre travail.                    |
+| **Intégration**      | Vous pouvez utiliser l'IA pendant toute la durée de votre travail.                           |
+| **Exploration**      | Vous pouvez utiliser l'IA de manière créative pour atteindre les objectifs de votre travail. |                                                                                            |
 
 ## Description longue
 
