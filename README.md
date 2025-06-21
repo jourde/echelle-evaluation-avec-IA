@@ -15,7 +15,7 @@ Cette échelle permet de cadrer l'utilisation de l'IA générative dans les éva
 
 - Le premier niveau de l'échelle ne permet pas l'utilisation de l'IA générative dans les travaux d'évaluation. Il requiert la mise en place d'un environnement contrôlé (supervisé) garantissant que les performances observées reposent uniquement sur les compétences des apprenants (examens oraux et questions-réponses, exercices d’écriture en classe, démonstrations de compétences…). Cela garantit que la qualification des apprenants, qui démontrent une maîtrise indépendante des compétences disciplinaires essentielles.
 - Les trois autres niveaux permettent — ou même exigent — l'utilisation de l'IA générative selon divers périmètres, de manière active et compétente (littératie numérique).
-- Le cinquième niveau permet aux personnes apprenantes de déployer des compétences avancées dans l'utilisation de l'IA générative pour explorer des moyens innovants d'atteindre les résultats attendus. Les apprenants peuvent alors co-concevoir les travaux d'évaluation avec les enseignants.
+- Le cinquième niveau permet aux personnes apprenantes de déployer des compétences avancées dans l'utilisation de l'IA générative pour explorer des moyens innovants d'atteindre les résultats attendus. Les personnes apprenantes peuvent alors co-concevoir les travaux d'évaluation avec les personnes enseignantes.
 
 # Versions textuelles
 ## Description courte
