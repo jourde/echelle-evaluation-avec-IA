@@ -23,7 +23,7 @@ Cette échelle permet de cadrer l'utilisation de l'IA générative dans les éva
 | Niveau | Description                                                                                  |
 | -------------------- | -------------------------------------------------------------------------------------------- |
 | **Sans IA**          | Vous ne pouvez pas utiliser l'IA.                                                            |
-| **Planification**    | Vous pouvez utiliser l'IA pour préparer et explorer les éléments de votre travail.           |
+| **Planification**    | Vous pouvez utiliser l'IA pour préparer et explorer des éléments de votre travail.           |
 | **Collaboration**    | Vous pouvez utiliser l'IA pour rédiger, affiner et évaluer votre travail.                    |
 | **Intégration**      | Vous pouvez utiliser l'IA pendant toute la durée de votre travail.                           |
 | **Exploration**      | Vous pouvez utiliser l'IA de manière créative pour atteindre les objectifs de votre travail. |                                                                                            |
@@ -36,7 +36,7 @@ Cette échelle permet de cadrer l'utilisation de l'IA générative dans les éva
 
 **3. COLLABORATION AVEC L’IA** - L'IA peut être utilisée pour aider à réaliser la tâche, y compris la génération d'idées, la rédaction, les conseils et les ajustements. Les personnes apprenantes doivent évaluer de manière critique et modifier les résultats suggérés par l'IA, démontrant ainsi leur compréhension. *Vous pouvez utiliser l'IA pour vous aider dans des tâches spécifiques telles que la rédaction d'un texte, l'amélioration et l'évaluation de votre travail. Vous devez évaluer et modifier de manière critique tout contenu généré par l'IA que vous utilisez.*
 
-**4. INTÉGRATION TOTALE DE L’IA**- L'IA peut être utilisée pour réaliser tous les éléments de la tâche, les personnes apprenantes dirigeant l'IA pour atteindre les objectifs de l’évaluation. Les évaluations à ce niveau peuvent également nécessiter un engagement avec l'IA pour atteindre des objectifs et résoudre des problèmes. *Vous pouvez utiliser l'IA de manière intensive tout au long de votre travail, comme vous le souhaitez ou selon les instructions spécifiques de votre évaluation. Concentrez-vous sur la mise en œuvre de l'IA pour atteindre vos objectifs tout en faisant preuve d'esprit critique.*
+**4. INTÉGRATION TOTALE DE L’IA**- L'IA peut être utilisée pour réaliser tous les éléments de la tâche, les personnes apprenantes dirigent l'IA pour atteindre les objectifs de l’évaluation. Les évaluations à ce niveau peuvent également nécessiter un engagement avec l'IA pour atteindre des objectifs et résoudre des problèmes. *Vous pouvez utiliser l'IA de manière intensive tout au long de votre travail, comme vous le souhaitez ou selon les instructions spécifiques de votre évaluation. Concentrez-vous sur la mise en œuvre de l'IA pour atteindre vos objectifs tout en faisant preuve d'esprit critique.*
 
 **5. EXPLORATION AVEC L’IA** - L’IA est utilisée de manière créative pour améliorer la résolution de problèmes, générer de nouvelles idées ou développer des solutions innovantes pour résoudre des problèmes. Les personnes apprenantes et enseignantes co-conçoivent des évaluations pour explorer les applications originales de l'IA dans le domaine d'étude. *Vous devez utiliser l'IA de manière créative pour résoudre la tâche, en co-concevant éventuellement de nouvelles approches avec votre instructeur.*
 
