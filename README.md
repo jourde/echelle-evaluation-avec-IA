@@ -7,14 +7,15 @@ L'AIAS est une ressource éducative libre (REL), partageable et modifiable sous 
 
 [^1]: La version de 2024 présente d'importantes modifications par rapport à la version initiale de ([2023](https://open-publishing.org/journals/index.php/jutlp/article/view/810)).
 
-## Fonctions et principes de l'échelle
+## Fonctions de l'échelle
 
-Cette échelle aide à concevoir des évaluations valides dans un monde saturé d'IA générative, en clarifiant et cadrant l'utilisation de l'IA générative dans l'évaluation des apprentissages. 
+Cette échelle aide à concevoir des évaluations valides dans un monde saturé d'IA générative, en clarifiant et cadrant l'utilisation de l'IA générative par les personnes apprenantes.
+Elle donne un langage commun aux acteurs (personnel enseignant et personnes apprenantes). Elle offre également un cadre permettant aux évaluateurs de redévelopper et de reconcevoir les évaluations.
 
-## Niveaux de l'échelle
+## Niveaux (non hiérarchiques) de l'échelle
 
 - Le premier niveau de l'échelle ne permet pas l'utilisation de l'IA générative dans les travaux d'évaluation. Il requiert la mise en place d'un environnement contrôlé (supervisé) garantissant que les performances observées reposent uniquement sur les compétences des apprenants (examens oraux et questions-réponses, exercices d’écriture en classe, démonstrations de compétences…). Cela garantit la qualification des apprenants, qui démontrent une maîtrise indépendante des compétences disciplinaires attendues.
-- Les trois autres niveaux permettent — ou même exigent — l'utilisation de services d'IA générative selon divers périmètres, de manière active et compétente (littératie numérique).
+- Les trois autres niveaux permettent — ou même exigent — l'utilisation d'interfaces d'IA générative selon divers périmètres, de manière active et compétente (littératie numérique).
 - Le cinquième niveau permet aux personnes apprenantes de déployer des compétences avancées dans l'utilisation de l'IA générative pour explorer des manières innovantes d'atteindre les résultats attendus. Les personnes apprenantes peuvent alors co-concevoir les travaux d'évaluation avec les personnes enseignantes.
 
 # Versions textuelles
@@ -22,11 +23,11 @@ Cette échelle aide à concevoir des évaluations valides dans un monde saturé 
 
 | Niveau | Description                                                                                  |
 | -------------------- | -------------------------------------------------------------------------------------------- |
-| **Sans IA**          | Vous ne pouvez pas utiliser l'IA.                                                            |
-| **Planification**    | Vous pouvez utiliser l'IA pour préparer et explorer des éléments de votre travail.           |
-| **Collaboration**    | Vous pouvez utiliser l'IA pour rédiger, affiner et évaluer votre travail.                    |
-| **Intégration**      | Vous pouvez utiliser l'IA pendant toute la durée de votre travail.                           |
-| **Exploration**      | Vous pouvez utiliser l'IA de manière créative pour atteindre les objectifs de votre travail. |                                                                                            |
+| **1. Sans IA**          | Vous ne pouvez pas utiliser l'IA.                                                            |
+| **2. Planification**    | Vous pouvez utiliser l'IA pour préparer et explorer des éléments de votre travail.           |
+| **3. Collaboration**    | Vous pouvez utiliser l'IA pour rédiger, affiner et évaluer votre travail.                    |
+| **4. Intégration**      | Vous pouvez utiliser l'IA pendant toute la durée de votre travail.                           |
+| **5. Exploration**      | Vous pouvez utiliser l'IA de manière créative pour atteindre les objectifs de votre travail. |                                                                                            |
 
 ## Description longue
 
