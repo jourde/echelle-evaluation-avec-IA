@@ -9,7 +9,7 @@ L'AIAS est une ressource éducative libre (REL), partageable et modifiable sous 
 
 ## Fonctions et principes de l'échelle
 
-Cette échelle permet de cadrer l'utilisation de l'IA générative dans les évaluations des apprentissages. Elle aide à concevoir des évaluations intégrant l'usage de l'IA générative (utilisation attendue ou même exigée), et à communiquer clairement ces règles aux personnes apprenantes. Elle aide ainsi à garantir la qualité de l'évaluation des apprentissages dans un contexte où l'IA générative est d'accès universel.
+Cette échelle aide à concevoir des évaluations valides dans un monde saturé d'IA générative, en clarifiant et cadrant l'utilisation de l'IA générative dans l'évaluation des apprentissages. 
 
 ## Niveaux de l'échelle
 
