@@ -1,22 +1,22 @@
-# Echelle de l’utilisation de l'intelligence artificielle générative dans l'évaluation des apprentissages
+# Échelle ou cadre de l’utilisation de l'intelligence artificielle générative dans l'évaluation des apprentissages
 # Présentation générale
 ## Source
-L'Echelle d’intégration de l’IA générative dans les évaluations d’apprentissage est la traduction française de l'*AI Assessment Scale* ou AIAS [(Perkins, Roe & Furze, 2024)](https://arxiv.org/abs/2412.09029) [^1].
+L’Échelle ou cadre d’intégration de l’IA générative dans les évaluations d’apprentissage est la traduction française de l’*AI Assessment Scale* ou AIAS [(Perkins, Roe & Furze, 2024)](https://arxiv.org/abs/2412.09029) [^1].
 
-L'AIAS est une ressource éducative libre (REL), partageable et modifiable sous licence Creative Commons CC-BY-NC-SA, dont diverses [traductions](https://leonfurze.com/2024/12/09/ai-assessment-scale-aias-translations-from-around-the-world/) sont disponibles. Cette échelle est présentée en détail sur le site web dédié : [aiassessmentscale.com](https://aiassessmentscale.com/).
+L'AIAS est une ressource éducative libre (REL), partageable et modifiable sous la licence Creative Commons CC-BY-NC-SA, dont diverses [traductions](https://leonfurze.com/2024/12/09/ai-assessment-scale-aias-translations-from-around-the-world/) sont disponibles. Cette échelle est présentée en détail sur le site web dédié : [aiassessmentscale.com](https://aiassessmentscale.com/).
 
 [^1]: La version de 2024 présente d'importantes modifications par rapport à la version initiale de ([2023](https://open-publishing.org/journals/index.php/jutlp/article/view/810)).
 
-## Fonctions de l'échelle
+## Fonctions du cadre
 
-Cette échelle aide à concevoir des évaluations valides dans un monde saturé d'IA générative, en clarifiant et cadrant l'utilisation de l'IA générative par les personnes apprenantes.
-Elle donne un langage commun aux acteurs (personnel enseignant et personnes apprenantes). Elle offre également un cadre permettant aux évaluateurs de redévelopper et de reconcevoir les évaluations.
+Ce cadre permet de concevoir des évaluations valides dans le contexte d'une IA générative omniprésente. Il offre aussi un langage commun aux acteurs (personnel enseignant et personnes apprenantes). Il sert donc à la fois de cadre de refonte des tâches pour garantir la validité des évaluations et d'outil de communication.
 
-## Niveaux (non hiérarchiques) de l'échelle
+## Niveaux (non hiérarchiques) de l'échelle ou du cadre
+N.B.: afin de ne pas poser de hiérarchie entre les niveaux, il est préférable de parler de cadre plutôt que d'échelle.
 
-- Le premier niveau de l'échelle ne permet pas l'utilisation de l'IA générative dans les travaux d'évaluation. Il requiert la mise en place d'un environnement contrôlé (supervisé) garantissant que les performances observées reposent uniquement sur les compétences des apprenants (examens oraux et questions-réponses, exercices d’écriture en classe, démonstrations de compétences…). Cela garantit la qualification des apprenants, qui démontrent une maîtrise indépendante des compétences disciplinaires attendues.
-- Les trois autres niveaux permettent — ou même exigent — l'utilisation d'interfaces d'IA générative selon divers périmètres, de manière active et compétente (littératie numérique).
-- Le cinquième niveau permet aux personnes apprenantes de déployer des compétences avancées dans l'utilisation de l'IA générative pour explorer des manières innovantes d'atteindre les résultats attendus. Les personnes apprenantes peuvent alors co-concevoir les travaux d'évaluation avec les personnes enseignantes.
+- Le premier niveau ne permet pas l'utilisation de l'IA générative dans les travaux d'évaluation. Il requiert la mise en place d'un environnement contrôlé (supervisé) garantissant que les performances observées reposent uniquement sur les compétences des apprenants (examens oraux et questions-réponses, exercices d’écriture en classe, démonstrations de compétences…). Cela garantit la qualification des apprenants, qui démontrent une maîtrise indépendante des compétences disciplinaires attendues.
+- Les trois autres niveaux permettent — voire exigent — l'utilisation d'interfaces d'IA générative dans divers périmètres, de manière active et compétente (littératie numérique).
+- Le cinquième niveau (« Exploration de l'IA ») permet aux élèves de déployer des compétences avancées en IA générative afin d'innover dans l'atteinte des résultats attendus. Les personnes apprenantes peuvent alors co-concevoir les travaux d'évaluation avec les personnes enseignantes. Ce niveau a été inclus en prévision des développements futurs dans le domaine de l'IA et de l'importance croissante accordée à la préparation des élèves à évoluer dans un monde enrichi par l'IA.
 
 # Versions textuelles
 ## Description courte
