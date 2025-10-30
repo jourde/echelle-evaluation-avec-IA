@@ -8,14 +8,15 @@ L'AIAS est une ressource éducative libre (REL), partageable et modifiable sous 
 [^1]: La version de 2024 présente d'importantes modifications par rapport à la version initiale de ([2023](https://open-publishing.org/journals/index.php/jutlp/article/view/810)).
 
 ## Fonctions du cadre
-
-Ce cadre permet de concevoir des évaluations valides dans le contexte d'une IA générative omniprésente. Il offre aussi un langage commun aux acteurs (personnel enseignant et personnes apprenantes). Il sert donc à la fois de :
+Ce cadre permet de concevoir des évaluations valides dans le contexte d'une IA générative omniprésente. Il offre également un langage commun aux acteurs (personnel enseignant et personnes apprenantes). Il sert donc à la fois de :
 - cadre de refonte des tâches pour garantir la validité des évaluations
-- et d'outil de communication.
+- et d'outil de communication (dialogue transparent entre enseignants et apprenants).
 
-## Niveaux (non hiérarchiques)
-N.B.: afin de ne pas hiérarchiser les niveaux, il est préférable de parler de cadre plutôt que d'échelle. Pour la même raison, le cadre utilise une palette de couleurs neutres.
+## Approche non hiérarchique
+Afin de ne pas hiérarchiser les niveaux (aucun niveau n'étant en soi meilleur qu'un autre), il est préférable de parler de cadre plutôt que d'échelle.
+Pour la même raison, le cadre recourt à une palette de couleurs neutres (abandon du code couleur des feux de signalisation afin d'éviter toute implication de valeurs hiérarchiques).
 
+## Niveaux
 - Le premier niveau ne permet pas l'utilisation de l'IA générative dans les travaux d'évaluation. Il requiert la mise en place d'un environnement contrôlé (supervisé) garantissant que les performances observées reposent uniquement sur les compétences des apprenants (examens oraux et questions-réponses, exercices d’écriture en classe, démonstrations de compétences…). Cela garantit la qualification des apprenants, qui démontrent une maîtrise indépendante des compétences disciplinaires attendues.
 - Les trois autres niveaux permettent — voire exigent — l'utilisation d'interfaces d'IA générative dans divers périmètres, de manière active et compétente (littératie numérique).
 - Le cinquième niveau (« Exploration de l'IA ») permet aux élèves de déployer des compétences avancées en IA générative afin d'innover dans l'atteinte des résultats attendus. Les personnes apprenantes peuvent alors co-concevoir les travaux d'évaluation avec les personnes enseignantes. Ce niveau a été inclus en prévision des développements futurs dans le domaine de l'IA et de l'importance croissante accordée à la préparation des élèves à évoluer dans un monde enrichi par l'IA.
