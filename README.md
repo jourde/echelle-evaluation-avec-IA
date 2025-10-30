@@ -13,8 +13,8 @@ Ce cadre permet de concevoir des évaluations valides dans le contexte d'une IA 
 - cadre de refonte des tâches pour garantir la validité des évaluations
 - et d'outil de communication.
 
-## Niveaux (non hiérarchiques) de l'échelle ou du cadre
-N.B.: afin de ne pas poser de hiérarchie entre les niveaux, il est préférable de parler de cadre plutôt que d'échelle.
+## Niveaux (non hiérarchiques)
+N.B.: afin de ne pas hiérarchiser les niveaux, il est préférable de parler de cadre plutôt que d'échelle. Pour la même raison, le cadre utilise une palette de couleurs neutres.
 
 - Le premier niveau ne permet pas l'utilisation de l'IA générative dans les travaux d'évaluation. Il requiert la mise en place d'un environnement contrôlé (supervisé) garantissant que les performances observées reposent uniquement sur les compétences des apprenants (examens oraux et questions-réponses, exercices d’écriture en classe, démonstrations de compétences…). Cela garantit la qualification des apprenants, qui démontrent une maîtrise indépendante des compétences disciplinaires attendues.
 - Les trois autres niveaux permettent — voire exigent — l'utilisation d'interfaces d'IA générative dans divers périmètres, de manière active et compétente (littératie numérique).
