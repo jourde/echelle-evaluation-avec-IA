@@ -9,7 +9,9 @@ L'AIAS est une ressource éducative libre (REL), partageable et modifiable sous 
 
 ## Fonctions du cadre
 
-Ce cadre permet de concevoir des évaluations valides dans le contexte d'une IA générative omniprésente. Il offre aussi un langage commun aux acteurs (personnel enseignant et personnes apprenantes). Il sert donc à la fois de cadre de refonte des tâches pour garantir la validité des évaluations et d'outil de communication.
+Ce cadre permet de concevoir des évaluations valides dans le contexte d'une IA générative omniprésente. Il offre aussi un langage commun aux acteurs (personnel enseignant et personnes apprenantes). Il sert donc à la fois de :
+- cadre de refonte des tâches pour garantir la validité des évaluations
+- et d'outil de communication.
 
 ## Niveaux (non hiérarchiques) de l'échelle ou du cadre
 N.B.: afin de ne pas poser de hiérarchie entre les niveaux, il est préférable de parler de cadre plutôt que d'échelle.
