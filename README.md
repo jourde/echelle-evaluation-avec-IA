@@ -1,4 +1,5 @@
 # Échelle ou cadre de l’utilisation de l'intelligence artificielle générative dans l'évaluation des apprentissages
+
 # Présentation générale
 ## Source
 L’Échelle ou cadre d’intégration de l’IA générative dans les évaluations d’apprentissage est la traduction française de l’*AI Assessment Scale* ou AIAS [(Perkins, Roe & Furze, 2024)](https://arxiv.org/abs/2412.09029) [^1].
@@ -13,13 +14,15 @@ Ce cadre permet de concevoir des évaluations valides dans le contexte d'une IA 
 - et d'outil de communication (dialogue transparent entre enseignants et apprenants).
 
 ## Approche non hiérarchique
-Afin de ne pas hiérarchiser les niveaux (aucun niveau n'étant en soi meilleur qu'un autre), il est préférable de parler de cadre plutôt que d'échelle.
+Afin de ne pas hiérarchiser les niveaux (aucun niveau n'étant en soi meilleur qu'un autre), il est préférable de parler de cadre plutôt que d'échelle.  
 Pour la même raison, le cadre recourt à une palette de couleurs neutres (abandon du code couleur des feux de signalisation afin d'éviter toute implication de valeurs hiérarchiques).
 
 ## Niveaux
-- Le premier niveau ne permet pas l'utilisation de l'IA générative dans les travaux d'évaluation. Il requiert la mise en place d'un environnement contrôlé (supervisé) garantissant que les performances observées reposent uniquement sur les compétences des apprenants (examens oraux et questions-réponses, exercices d’écriture en classe, démonstrations de compétences…). Cela garantit la qualification des apprenants, qui démontrent une maîtrise indépendante des compétences disciplinaires attendues.
-- Les trois autres niveaux permettent — voire exigent — l'utilisation d'interfaces d'IA générative dans divers périmètres, de manière active et compétente (littératie numérique).
-- Le cinquième niveau (« Exploration de l'IA ») permet aux élèves de déployer des compétences avancées en IA générative afin d'innover dans l'atteinte des résultats attendus. Les personnes apprenantes peuvent alors co-concevoir les travaux d'évaluation avec les personnes enseignantes. Ce niveau a été inclus en prévision des développements futurs dans le domaine de l'IA et de l'importance croissante accordée à la préparation des élèves à évoluer dans un monde enrichi par l'IA.
+- Le premier niveau ne permet pas l'utilisation de l'IA générative dans les travaux d'évaluation.  
+- Les niveaux 2 à 5 permettent — voire exigent — l'utilisation d'interfaces d'IA générative dans divers périmètres, de manière active et compétente (littératie numérique).  
+- Le **sixième niveau (« Orchestration et optimisation de l’IA »)** permet aux apprenants d'utiliser l'IA de manière experte, combinant plusieurs outils, optimisant les résultats et concevant des processus stratégiques pour atteindre les objectifs de l’évaluation.  
+
+---
 
 # Versions textuelles
 ## Description courte
@@ -30,44 +33,36 @@ Pour la même raison, le cadre recourt à une palette de couleurs neutres (aband
 | **2. Planification**    | Vous pouvez utiliser l'IA pour préparer et explorer des éléments de votre travail.           |
 | **3. Collaboration**    | Vous pouvez utiliser l'IA pour rédiger, affiner et évaluer votre travail.                    |
 | **4. Intégration**      | Vous pouvez utiliser l'IA pendant toute la durée de votre travail.                           |
-| **5. Exploration**      | Vous pouvez utiliser l'IA de manière créative pour atteindre les objectifs de votre travail. |                                                                                            |
+| **5. Exploration**      | Vous pouvez utiliser l'IA de manière créative pour atteindre les objectifs de votre travail. |
+| **6. Orchestration et optimisation** | Vous utilisez l'IA de manière experte, combinant plusieurs outils, optimisant les résultats et concevant des processus pour atteindre vos objectifs de manière stratégique. |
+
+---
 
 ## Description longue
 
 **1. SANS IA** - L’évaluation est entièrement réalisée sans l'aide de l'IA dans un environnement contrôlé, garantissant que les personnes apprenantes s'appuient uniquement sur leurs connaissances, leur compréhension et leurs compétences existantes. *Vous ne devez pas utiliser l'IA à aucun moment de votre évaluation. Vous devez démontrer vos compétences et connaissances fondamentales.*
 
-**2. PRÉPARATION AVEC L’IA** - L'IA peut être utilisée pour des tâches préparatoires, telles que la recherche d’idées, la structuration et la recherche initiale. Ce niveau se concentre sur l'utilisation efficace de l'IA pour la planification, la synthèse et l'idéation, mais les évaluations doivent mettre l'accent sur la capacité à développer et à affiner ces idées de manière indépendante. *Vous pouvez utiliser l'IA pour la planification, le développement d'idées et la recherche. Votre soumission finale doit montrer comment vous avez développé et affiné ces idées.*
+**2. PRÉPARATION AVEC L’IA** - L'IA peut être utilisée pour des tâches préparatoires, telles que la recherche d’idées, la structuration et la recherche initiale. *Vous pouvez utiliser l'IA pour la planification, le développement d'idées et la recherche. Votre soumission finale doit montrer comment vous avez développé et affiné ces idées.*
 
-**3. COLLABORATION AVEC L’IA** - L'IA peut être utilisée pour aider à réaliser la tâche, y compris la génération d'idées, la rédaction, les conseils et les ajustements. Les personnes apprenantes doivent évaluer de manière critique et modifier les résultats suggérés par l'IA, démontrant ainsi leur compréhension. *Vous pouvez utiliser l'IA pour vous aider dans des tâches spécifiques telles que la rédaction d'un texte, l'amélioration et l'évaluation de votre travail. Vous devez évaluer et modifier de manière critique tout contenu généré par l'IA que vous utilisez.*
+**3. COLLABORATION AVEC L’IA** - L'IA peut être utilisée pour aider à réaliser la tâche, y compris la génération d'idées, la rédaction, les conseils et les ajustements. *Vous devez évaluer et modifier de manière critique tout contenu généré par l'IA que vous utilisez.*
 
-**4. INTÉGRATION TOTALE DE L’IA**- L'IA peut être utilisée pour réaliser tous les éléments de la tâche, les personnes apprenantes dirigent l'IA pour atteindre les objectifs de l’évaluation. Les évaluations à ce niveau peuvent également nécessiter un engagement avec l'IA pour atteindre des objectifs et résoudre des problèmes. *Vous pouvez utiliser l'IA de manière intensive tout au long de votre travail, comme vous le souhaitez ou selon les instructions spécifiques de votre évaluation. Concentrez-vous sur la mise en œuvre de l'IA pour atteindre vos objectifs tout en faisant preuve d'esprit critique.*
+**4. INTÉGRATION TOTALE DE L’IA** - L'IA peut être utilisée pour réaliser tous les éléments de la tâche, les personnes apprenantes dirigent l'IA pour atteindre les objectifs de l’évaluation. *Vous pouvez utiliser l'IA de manière intensive tout au long de votre travail, comme vous le souhaitez ou selon les instructions spécifiques de votre évaluation. Concentrez-vous sur la mise en œuvre de l'IA pour atteindre vos objectifs tout en faisant preuve d'esprit critique.*
 
-**5. EXPLORATION AVEC L’IA** - L’IA est utilisée de manière créative pour améliorer la résolution de problèmes, générer de nouvelles idées ou développer des solutions innovantes pour résoudre des problèmes. Les personnes apprenantes et enseignantes co-conçoivent des évaluations pour explorer les applications originales de l'IA dans le domaine d'étude. *Vous devez utiliser l'IA de manière créative pour résoudre la tâche, en co-concevant éventuellement de nouvelles approches avec votre instructeur.*
+**5. EXPLORATION AVEC L’IA** - L’IA est utilisée de manière créative pour améliorer la résolution de problèmes, générer de nouvelles idées ou développer des solutions innovantes pour résoudre des problèmes. *Vous devez utiliser l'IA de manière créative pour résoudre la tâche, en co-concevant éventuellement de nouvelles approches avec votre instructeur.*
 
-## Versions graphiques
-### Table
-<div align="center">
-	<img width="90%" height="90%" src="https://github.com/jourde/echelle-evaluation-avec-IA/blob/main/EEIA_table.png">
-</div>
+**6. ORCHESTRATION ET OPTIMISATION DE L’IA** - Vous utilisez l'IA comme un système à piloter : vous combinez plusieurs outils, optimisez les résultats et concevez des processus stratégiques pour atteindre vos objectifs. *Vous devez démontrer votre capacité à orchestrer différents outils, comparer et sélectionner les meilleures sorties, et organiser votre travail de manière optimale tout en évaluant la pertinence et la qualité des résultats.*
 
-### Anneaux
-Selon le contexte, la discipline et le type d'évaluation, différents niveaux d'utilisation de l'IA peuvent être appropriés à différents moments. La représentation circulaire (non plus tablulaire) suggère que tous les niveaux méritent d'être considérés pour leur pertinence dans la conception de l'évaluation.
-
-<div align="center">
-	<img width="100%" height="100%" src="https://github.com/jourde/echelle-evaluation-avec-IA/blob/main/aiasringsv2_FR.png">
-</div>
+---
 
 ### Codes couleurs
-- niveau 1: `#64DEFF`
-- niveau 2: `#C1FFD2`
-- niveau 3: `#C1CFFF`
-- niveau 4: `#FFF1C1`
-- niveau 5: `#FFC1EE`
-
-### Ressources modifiables
-Vous pouvez créer une copie modifiable du [modèle à partir de Canva](https://www.canva.com/design/DAGPLiMwgmk/s30HRQJ1AKBrcKaCZ_kO8g/view?utm_content=DAGPLiMwgmk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview) (compte nécessaire).
-
+- niveau 1: `#64DEFF`  
+- niveau 2: `#C1FFD2`  
+- niveau 3: `#C1CFFF`  
+- niveau 4: `#FFF1C1`  
+- niveau 5: `#FFC1EE`  
+- niveau 6: `#FFD580`  
 ---------
+
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 Cette œuvre est placée sous une licence
@@ -75,6 +70,5 @@ Cette œuvre est placée sous une licence
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
-[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/  
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
-[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
