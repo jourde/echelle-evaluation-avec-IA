@@ -1,63 +1,69 @@
-# Échelle ou cadre de l’utilisation de l'intelligence artificielle générative dans l'évaluation des apprentissages
+# Échelle ou cadre de l’utilisation de l’intelligence artificielle générative dans l’évaluation des apprentissages
+
 # Présentation générale
+
 ## Source
-L’Échelle ou cadre d’intégration de l’IA générative dans les évaluations d’apprentissage est la traduction française de l’*AI Assessment Scale* ou AIAS [(Perkins, Roe & Furze, 2024)](https://arxiv.org/abs/2412.09029) [^1].
 
-L'AIAS est une ressource éducative libre (REL), partageable et modifiable sous la licence Creative Commons CC-BY-NC-SA, dont diverses [traductions](https://leonfurze.com/2024/12/09/ai-assessment-scale-aias-translations-from-around-the-world/) sont disponibles. Cette échelle est présentée en détail sur le site web dédié : [aiassessmentscale.com](https://aiassessmentscale.com/).
+L’Échelle ou cadre d’intégration de l’IA générative dans les évaluations d’apprentissage est la traduction française de l’*AI Assessment Scale* ou AIAS [(Perkins, Roe & Furze, 2024)](https://arxiv.org/abs/2412.09029)[^1].
 
-[^1]: La version de 2024 présente d'importantes modifications par rapport à la version initiale de ([2023](https://open-publishing.org/journals/index.php/jutlp/article/view/810)).
+L’AIAS est une ressource éducative libre (REL), partageable et modifiable sous la licence Creative Commons CC-BY-NC-SA, dont diverses [traductions](https://leonfurze.com/2024/12/09/ai-assessment-scale-aias-translations-from-around-the-world/) sont disponibles. Cette échelle est présentée en détail sur le site web dédié : [aiassessmentscale.com](https://aiassessmentscale.com/).
 
 ## Fonctions du cadre
-Ce cadre permet de concevoir des évaluations valides dans le contexte d'une IA générative omniprésente. Il offre également un langage commun aux acteurs (personnel enseignant et personnes apprenantes). Il sert donc à la fois de :
+
+Ce cadre permet de concevoir des évaluations valides dans le contexte d’une IA générative omniprésente. Il offre également un langage commun aux acteurs (personnel enseignant et personnes apprenantes). Il sert donc à la fois de :
+
 - cadre de refonte des tâches pour garantir la validité des évaluations
-- et d'outil de communication (dialogue transparent entre enseignants et apprenants).
+- et d’outil de communication (dialogue transparent entre enseignants et apprenants).
 
 ## Approche non hiérarchique
-Afin de ne pas hiérarchiser les niveaux (aucun niveau n'étant en soi meilleur qu'un autre), il est préférable de parler de cadre plutôt que d'échelle.
-Pour la même raison, le cadre recourt à une palette de couleurs neutres (abandon du code couleur des feux de signalisation afin d'éviter toute implication de valeurs hiérarchiques).
+
+Afin de ne pas hiérarchiser les niveaux (aucun niveau n’étant en soi meilleur qu’un autre), il est préférable de parler de cadre plutôt que d’échelle.
+Pour la même raison, le cadre recourt à une palette de couleurs neutres (abandon du code couleur des feux de signalisation afin d’éviter toute implication de valeurs hiérarchiques).
 
 ## Niveaux
-- Le premier niveau ne permet pas l'utilisation de l'IA générative dans les travaux d'évaluation. Il requiert la mise en place d'un environnement contrôlé (supervisé) garantissant que les performances observées reposent uniquement sur les compétences des apprenants (examens oraux et questions-réponses, exercices d’écriture en classe, démonstrations de compétences…). Cela garantit la qualification des apprenants, qui démontrent une maîtrise indépendante des compétences disciplinaires attendues.
-- Les trois autres niveaux permettent — voire exigent — l'utilisation d'interfaces d'IA générative dans divers périmètres, de manière active et compétente (littératie numérique).
-- Le cinquième niveau (« Exploration de l'IA ») permet aux élèves de déployer des compétences avancées en IA générative afin d'innover dans l'atteinte des résultats attendus. Les personnes apprenantes peuvent alors co-concevoir les travaux d'évaluation avec les personnes enseignantes. Ce niveau a été inclus en prévision des développements futurs dans le domaine de l'IA et de l'importance croissante accordée à la préparation des élèves à évoluer dans un monde enrichi par l'IA.
+
+- Le premier niveau ne permet pas l’utilisation de l’IA générative dans les travaux d’évaluation. Il requiert la mise en place d’un environnement contrôlé (supervisé) garantissant que les performances observées reposent uniquement sur les compétences des apprenants (examens oraux et questions-réponses, exercices d’écriture en classe, démonstrations de compétences…). Cela garantit la qualification des apprenants, qui démontrent une maîtrise indépendante des compétences disciplinaires attendues.
+- Les trois autres niveaux permettent — voire exigent — l’utilisation d’interfaces d’IA générative dans divers périmètres, de manière active et compétente (littératie numérique).
+- Le cinquième niveau (« Exploration de l’IA ») permet aux élèves de déployer des compétences avancées en IA générative afin d’innover dans l’atteinte des résultats attendus. Les personnes apprenantes peuvent alors co-concevoir les travaux d’évaluation avec les personnes enseignantes. Ce niveau a été inclus en prévision des développements futurs dans le domaine de l’IA et de l’importance croissante accordée à la préparation des élèves à évoluer dans un monde enrichi par l’IA.
 
 # Versions textuelles
+
 ## Description courte
 
-| Niveau | Description                                                                                  |
-| -------------------- | -------------------------------------------------------------------------------------------- |
-| **1. Sans IA**          | Vous ne pouvez pas utiliser l'IA.                                                            |
-| **2. Planification**    | Vous pouvez utiliser l'IA pour préparer et explorer des éléments de votre travail.           |
-| **3. Collaboration**    | Vous pouvez utiliser l'IA pour rédiger, affiner et évaluer votre travail.                    |
-| **4. Intégration**      | Vous pouvez utiliser l'IA pendant toute la durée de votre travail.                           |
-| **5. Exploration**      | Vous pouvez utiliser l'IA de manière créative pour atteindre les objectifs de votre travail. |                                                                                            |
+| Niveau | Description |
+| --- | --- |
+| **1. Sans IA** | Vous ne pouvez pas utiliser l’IA. |
+| **2. Planification** | Vous pouvez utiliser l’IA pour préparer et explorer des éléments de votre travail. |
+| **3. Collaboration** | Vous pouvez utiliser l’IA pour rédiger, affiner et évaluer votre travail. |
+| **4. Intégration** | Vous pouvez utiliser l’IA pendant toute la durée de votre travail. |
+| **5. Exploration** | Vous pouvez utiliser l’IA de manière créative pour atteindre les objectifs de votre travail. |
 
 ## Description longue
 
-**1. SANS IA** - L’évaluation est entièrement réalisée sans l'aide de l'IA dans un environnement contrôlé, garantissant que les personnes apprenantes s'appuient uniquement sur leurs connaissances, leur compréhension et leurs compétences existantes. *Vous ne devez pas utiliser l'IA à aucun moment de votre évaluation. Vous devez démontrer vos compétences et connaissances fondamentales.*
+**1. SANS IA** - L’évaluation est entièrement réalisée sans l’aide de l’IA dans un environnement contrôlé, garantissant que les personnes apprenantes s’appuient uniquement sur leurs connaissances, leur compréhension et leurs compétences existantes. *Vous ne devez pas utiliser l’IA à aucun moment de votre évaluation. Vous devez démontrer vos compétences et connaissances fondamentales.*
 
-**2. PRÉPARATION AVEC L’IA** - L'IA peut être utilisée pour des tâches préparatoires, telles que la recherche d’idées, la structuration et la recherche initiale. Ce niveau se concentre sur l'utilisation efficace de l'IA pour la planification, la synthèse et l'idéation, mais les évaluations doivent mettre l'accent sur la capacité à développer et à affiner ces idées de manière indépendante. *Vous pouvez utiliser l'IA pour la planification, le développement d'idées et la recherche. Votre soumission finale doit montrer comment vous avez développé et affiné ces idées.*
+**2. PRÉPARATION AVEC L’IA** - L’IA peut être utilisée pour des tâches préparatoires, telles que la recherche d’idées, la structuration et la recherche initiale. Ce niveau se concentre sur l’utilisation efficace de l’IA pour la planification, la synthèse et l’idéation, mais les évaluations doivent mettre l’accent sur la capacité à développer et à affiner ces idées de manière indépendante. *Vous pouvez utiliser l’IA pour la planification, le développement d’idées et la recherche. Votre soumission finale doit montrer comment vous avez développé et affiné ces idées.*
 
-**3. COLLABORATION AVEC L’IA** - L'IA peut être utilisée pour aider à réaliser la tâche, y compris la génération d'idées, la rédaction, les conseils et les ajustements. Les personnes apprenantes doivent évaluer de manière critique et modifier les résultats suggérés par l'IA, démontrant ainsi leur compréhension. *Vous pouvez utiliser l'IA pour vous aider dans des tâches spécifiques telles que la rédaction d'un texte, l'amélioration et l'évaluation de votre travail. Vous devez évaluer et modifier de manière critique tout contenu généré par l'IA que vous utilisez.*
+**3. COLLABORATION AVEC L’IA** - L’IA peut être utilisée pour aider à réaliser la tâche, y compris la génération d’idées, la rédaction, les conseils et les ajustements. Les personnes apprenantes doivent évaluer de manière critique et modifier les résultats suggérés par l’IA, démontrant ainsi leur compréhension. *Vous pouvez utiliser l’IA pour vous aider dans des tâches spécifiques telles que la rédaction d’un texte, l’amélioration et l’évaluation de votre travail. Vous devez évaluer et modifier de manière critique tout contenu généré par l’IA que vous utilisez.*
 
-**4. INTÉGRATION TOTALE DE L’IA**- L'IA peut être utilisée pour réaliser tous les éléments de la tâche, les personnes apprenantes dirigent l'IA pour atteindre les objectifs de l’évaluation. Les évaluations à ce niveau peuvent également nécessiter un engagement avec l'IA pour atteindre des objectifs et résoudre des problèmes. *Vous pouvez utiliser l'IA de manière intensive tout au long de votre travail, comme vous le souhaitez ou selon les instructions spécifiques de votre évaluation. Concentrez-vous sur la mise en œuvre de l'IA pour atteindre vos objectifs tout en faisant preuve d'esprit critique.*
+**4. INTÉGRATION TOTALE DE L’IA** - L’IA peut être utilisée pour réaliser tous les éléments de la tâche, les personnes apprenantes dirigent l’IA pour atteindre les objectifs de l’évaluation. Les évaluations à ce niveau peuvent également nécessiter un engagement avec l’IA pour atteindre des objectifs et résoudre des problèmes. *Vous pouvez utiliser l’IA de manière intensive tout au long de votre travail, comme vous le souhaitez ou selon les instructions spécifiques de votre évaluation. Concentrez-vous sur la mise en œuvre de l’IA pour atteindre vos objectifs tout en faisant preuve d’esprit critique.*
 
-**5. EXPLORATION AVEC L’IA** - L’IA est utilisée de manière créative pour améliorer la résolution de problèmes, générer de nouvelles idées ou développer des solutions innovantes pour résoudre des problèmes. Les personnes apprenantes et enseignantes co-conçoivent des évaluations pour explorer les applications originales de l'IA dans le domaine d'étude. *Vous devez utiliser l'IA de manière créative pour résoudre la tâche, en co-concevant éventuellement de nouvelles approches avec votre instructeur.*
+**5. EXPLORATION AVEC L’IA** - L’IA est utilisée de manière créative pour améliorer la résolution de problèmes, générer de nouvelles idées ou développer des solutions innovantes pour résoudre des problèmes. Les personnes apprenantes et enseignantes co-conçoivent des évaluations pour explorer les applications originales de l’IA dans le domaine d’étude. *Vous devez utiliser l’IA de manière créative pour résoudre la tâche, en co-concevant éventuellement de nouvelles approches avec votre instructeur.*
 
 ## Versions graphiques
+
 ### Table
-<div align="center">
-	<img width="90%" height="90%" src="https://github.com/jourde/echelle-evaluation-avec-IA/blob/main/EEIA_table.png">
-</div>
+
+![Représentation tabulaire de l’échelle EEIA : cinq niveaux d’utilisation de l’IA générative dans l’évaluation des apprentissages, du niveau 1 « Sans IA » au niveau 5 « Exploration avec l’IA ».](EEIA_table.png)
 
 ### Anneaux
-Selon le contexte, la discipline et le type d'évaluation, différents niveaux d'utilisation de l'IA peuvent être appropriés à différents moments. La représentation circulaire (non plus tablulaire) suggère que tous les niveaux méritent d'être considérés pour leur pertinence dans la conception de l'évaluation.
 
-<div align="center">
-	<img width="100%" height="100%" src="https://github.com/jourde/echelle-evaluation-avec-IA/blob/main/aiasringsv2_FR.png">
-</div>
+Selon le contexte, la discipline et le type d’évaluation, différents niveaux d’utilisation de l’IA peuvent être appropriés à différents moments. La représentation circulaire (non plus tabulaire) suggère que tous les niveaux méritent d’être considérés pour leur pertinence dans la conception de l’évaluation.
+
+![Représentation circulaire (anneaux) de l’échelle EEIA, montrant les cinq niveaux d’utilisation de l’IA générative sans hiérarchie.](aiasringsv2_FR.png)
 
 ### Codes couleurs
+
 - niveau 1: `#64DEFF`
 - niveau 2: `#C1FFD2`
 - niveau 3: `#C1CFFF`
@@ -65,16 +71,15 @@ Selon le contexte, la discipline et le type d'évaluation, différents niveaux d
 - niveau 5: `#FFC1EE`
 
 ### Ressources modifiables
+
 Vous pouvez créer une copie modifiable du [modèle à partir de Canva](https://www.canva.com/design/DAGPLiMwgmk/s30HRQJ1AKBrcKaCZ_kO8g/view?utm_content=DAGPLiMwgmk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview) (compte nécessaire).
 
----------
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+---
 
-Cette œuvre est placée sous une licence
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+[![Licence Creative Commons CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+Cette œuvre est placée sous une licence [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
-[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
-[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+[![Bouton de licence Creative Commons CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+[^1]: La version de 2024 présente d’importantes modifications par rapport à la version initiale de ([2023](https://open-publishing.org/journals/index.php/jutlp/article/view/810)).
