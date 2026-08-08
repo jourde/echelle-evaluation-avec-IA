@@ -51,7 +51,7 @@ Ce cadre propose cinq niveaux d'utilisation de l'IA dans les tâches d'évaluati
 
 # Ce qui est évalué
 
-Pour chaque évaluation, déterminez quel niveau correspond le mieux à vos acquis d'apprentissage :
+Pour chaque évaluation, on détermine quel niveau correspond le mieux aux acquis d'apprentissage visés :
 
 | Niveau                         | Utilisation de l'IA par l'apprenant                                                                             | Focus de l'évaluation                                                                                                                                                                                                                           |
 | ------------------------------ | --------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
