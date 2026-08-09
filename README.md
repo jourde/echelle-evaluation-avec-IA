@@ -23,7 +23,9 @@ Il remplit deux fonctions : il aide à concevoir des tâches d'évaluation dans 
 
 ## Approche non hiérarchique
 
-Ce cadre propose cinq niveaux d'utilisation de l'IA dans les tâches d'évaluation, sans les hiérarchiser. Aucun niveau du cadre n'est meilleur qu'un autre, et chacun peut favoriser l'acquisition des acquis d'apprentissage, selon le contexte de l'évaluation.  Le niveau approprié dépend de vos objectifs d'apprentissage, de votre contexte et de ce que la tâche est censée évaluer.
+Ce cadre propose cinq niveaux d'utilisation de l'IA dans les tâches d'évaluation. Ces niveaux correspondent à différents types de tâches plutôt qu'à une progression. Le niveau approprié dépend des objectifs d'apprentissage, du contexte et de ce que la tâche est censée évaluer.
+
+Aucun niveau n'est intrinsèquement meilleur qu'un autre : chacun peut favoriser l'acquisition des acquis d'apprentissage, selon le contexte de l'évaluation.
 
 # Descriptions des niveaux
 
