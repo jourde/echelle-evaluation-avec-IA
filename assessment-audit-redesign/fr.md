@@ -1,4 +1,4 @@
-# Présentation
+# Présentation courte
 Ce prompt guide un enseignant — du secondaire supérieur comme du supérieur — à travers un audit en trois phases de ses évaluations face à l'IA générative.
 - Phase 1 — identifie les vulnérabilités de la consigne soumise au regard de l'utilisation d'un système d'IA générative par les élèves ou étudiants.
 - Phase 2 — propose trois options de refonte.
@@ -8,7 +8,66 @@ L'enseignant choisit entre deux parcours : sans IA apprenant (A) ou avec usage p
 
 **Contexte réglementaire (enseignement secondaire et supérieur dans l'Union européenne)** : l'établissement scolaire, en tant que responsable de traitement, doit s'assurer que tout outil d'IA dispose d'une base légale valide (RGPD, art. 6) et respecte les obligations du Règlement sur l'IA applicables aux déployeurs. Les outils nécessitant un compte sur une plateforme grand public sont à exclure, sauf cadre contractuel validé par l'autorité académique. En contexte supérieur (étudiants adultes), cette exclusion s'assouplit au profit d'exigences de protection des données et d'équité d'accès.
 
-# Prompt à copier
+# Présentation détaillée
+## Évaluer à l'ère de l'IA générative : deux questions, pas une
+
+Face à l'IA générative, la question « l'élève a-t-il vraiment fait ce travail ? » est nécessaire mais insuffisante. Une évaluation peut être parfaitement authentique et n'avoir rien fait apprendre. Deux questions distinctes sont donc à poser sur toute évaluation.
+
+### Axe 1 — La validité d'intégrité
+
+**La note reflète-t-elle l'apport réel de l'élève ?**
+
+Il y a vulnérabilité d'intégrité lorsqu'un élève peut produire une réponse notable sans mobiliser l'apprentissage visé, par exemple parce qu'une IA générative peut produire une réponse satisfaisante à sa place.
+
+*Test :* si je soumets ma consigne à une IA générative, obtient-elle une production que je noterais correctement ?
+
+### Axe 2 — La validité cognitive
+
+**La tâche fait-elle advenir l'effort intellectuel dont dépend l'apprentissage ?**
+
+Une tâche peut être cognitivement vide de deux manières, qui appellent des remèdes opposés.
+
+**Vide par conception.** La tâche n'exige, par construction, aucune opération à la hauteur de l'objectif : restitution, recopie, remplissage, application mécanique d'une procédure déjà donnée. L'IA n'y change rien, et l'interdire n'y change rien non plus. Le remède est de rehausser la demande cognitive elle-même.
+
+**Vidée dans son accomplissement.** La tâche est potentiellement riche, mais l'élève peut confier à l'IA l'opération même qu'elle devait lui faire construire (le raisonnement, le plan argumentatif, la résolution), y compris quand l'usage de l'IA est autorisé. Le remède est de créer les conditions qui maintiennent cette opération chez l'élève.
+
+*Test :* quelle opération précise cette tâche doit-elle faire construire ? Qui l'accomplit réellement ?
+
+**Point déterminant :** le risque cognitif dépend de la position de l'élève sur l'objectif visé, non de son niveau général. Pour un élève **novice** sur cet objectif précis (ce qu'il est sur la plupart des objectifs nouveaux), laisser l'IA exécuter l'opération empêche la construction du savoir sous-jacent. Le même geste, chez quelqu'un qui maîtrise déjà le domaine, libère utilement des ressources.
+
+### Juger la solidité d'une garantie
+
+Chaque protection intégrée à une évaluation se décrit par **un niveau** et, s'il y a lieu, **une condition**.
+
+| Niveau | Critère |
+|---|---|
+| **Forte** | On peut décrire un scénario où l'élève recourt pleinement à l'IA et où la note reste juste. |
+| **Modérée** | La garantie réduit le risque mais reste contournable avec un peu d'effort. |
+| **Faible** | Le contournement est facile à décrire. |
+
+La **condition** se note à part : « forte, sous condition : soutenance effectivement menée ». Si la condition n'est pas remplie dans les faits, c'est le niveau sans elle qui vaut.
+
+Une garantie n'est solide que **sur l'axe qu'elle couvre** : une soutenance orale peut être forte en intégrité et faible en cognitif si le raisonnement a déjà été délégué avant qu'elle n'ait lieu.
+
+### Ce qui plafonne la solidité : le lieu de passation
+
+| Modalité | Plafond d'intégrité |
+|---|---|
+| **En classe, sous surveillance** | « Sans IA » est exécutable et peut constituer une garantie forte. |
+| **À la maison** | « Sans IA » n'est qu'une consigne invérifiable. Seule une conception rendant l'IA inutile élève la solidité, rarement jusqu'au niveau fort. |
+| **Hybride** | Production hors surveillance, puis point de contrôle supervisé. Rendre vérifiable en classe la part faite ailleurs est le mouvement le plus robuste. |
+
+**Le lieu plafonne, la conception fixe le plancher.** Surveiller fait respecter une règle ; concevoir rend l'IA inutile. Le lieu de passation ne protège en revanche pas l'axe cognitif : un élève peut déléguer l'effort sous surveillance comme ailleurs si les appareils sont accessibles.
+
+### Trois pièges courants
+
+**Monter dans la taxonomie ne protège de rien.** Les systèmes génératifs traitent très bien l'analyse, l'évaluation et la création. Relever le niveau cognitif d'une tâche peut être une bonne décision pédagogique, jamais une garantie d'intégrité.
+
+**Une production fluide n'est pas une preuve d'apprentissage.** Une copie soignée, bien structurée, correctement référencée est exactement ce que l'IA produit le mieux. Pondérer une grille vers le jugement, les preuves, la méthode et l'originalité du raisonnement plutôt que vers la fluidité de surface.
+
+**Les détecteurs d'IA ne fondent jamais à eux seuls un jugement d'intégrité.** Ils produisent des faux positifs, et l'accusation qu'ils déclenchent est difficile à instruire. La conception de la tâche est la seule protection fiable.
+
+# Prompt à coller dans une interface d'IA générative
 
 ```
 # Rôle
